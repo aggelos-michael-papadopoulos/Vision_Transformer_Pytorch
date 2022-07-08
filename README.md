@@ -16,6 +16,7 @@ Urls used for this repository:
 
 2 nd: We verify that our model (which is a slight simplified version of the original==google model) has the exact parameters (i.e. is the same model) as the pretrained "vit_base_patch16_384" in "verify.py"
 
-3 rd: We evaluate our model with our own images in "forward.py"
+3 rd: We evaluate our model with our own images in "forward.py" by showing top-k (k=10) results
 
-##  fine tune
+##  Fine tuning 
+On the "fine_tune.py" we fine tune a pre-trained vision transformer on CIFAR-10 dataset (60,000 32x32 colour images in 10 classes, with 6000 images per class). The vision transformer The model itself is pre-trained on ImageNet-21k, a dataset of 14 million labeled images 

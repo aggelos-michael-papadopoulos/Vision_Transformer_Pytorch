@@ -16,4 +16,6 @@ Urls used for this repository:
 
 2 nd: We verify that our model (which is a slight simplified version of the original==google model) has the exact parameters (i.e. is the same model) as the pretrained "vit_base_patch16_384" in "verify.py"
 
-3rd: We evaluate our model with our own images in "forward.py"
+3 rd: We evaluate our model with our own images in "forward.py"
+
+##  fine tune

@@ -13,4 +13,5 @@ Urls used for this repository:
 # Overall view![Screenshot from 2022-07-08 18-03-02](https://user-images.githubusercontent.com/65830412/178019085-2bd0ea6f-bccf-4ae9-ba28-38d3ff637d14.png)
 
 1 st: We create Vision Transformer model from scratch in "Vit.py"
+
 2 nd: We verify that our model (which is a slight simplified version of the original==google model) has the exact parameters (i.e. is the same model) as the "vit_base_patch16_384"

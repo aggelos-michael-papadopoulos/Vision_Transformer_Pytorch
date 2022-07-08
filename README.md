@@ -14,4 +14,6 @@ Urls used for this repository:
 
 1 st: We create Vision Transformer model from scratch in "Vit.py"
 
-2 nd: We verify that our model (which is a slight simplified version of the original==google model) has the exact parameters (i.e. is the same model) as the "vit_base_patch16_384"
+2 nd: We verify that our model (which is a slight simplified version of the original==google model) has the exact parameters (i.e. is the same model) as the pretrained "vit_base_patch16_384" in "verify.py"
+
+3rd: We evaluate our model with our own images in "forward.py"

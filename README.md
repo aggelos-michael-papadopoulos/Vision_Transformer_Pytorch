@@ -21,4 +21,4 @@ Paper link: https://arxiv.org/abs/2010.11929
 3 rd: We evaluate our model with our own images in "forward.py" by showing top-k (k=10) results
 
 ##  Fine tuning 
-On the "fine_tune.py" we fine tune a pre-trained vision transformer on CIFAR-10 dataset (60,000 32x32 colour images in 10 classes, with 6000 images per class). The vision transformer The model itself is pre-trained on ImageNet-21k, a dataset of 14 million labeled images 
+On the "fine_tune.py" we fine tune a pre-trained vision transformer on CIFAR-10 dataset (60,000 32x32 colour images in 10 classes, with 6000 images per class) achienving SOTA results. The vision transformer The model itself is pre-trained on ImageNet-21k, a dataset of 14 million labeled images.  

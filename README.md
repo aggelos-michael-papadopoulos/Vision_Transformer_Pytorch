@@ -7,6 +7,7 @@ Urls used for this repository:
 * https://github.com/rwightman/pytorch-image-models
 * https://github.com/jankrepl/mildlyoverfitted/tree/master/github_adventures/vision_transformer
 * https://www.youtube.com/watch?v=ovB0ddFtzzA
+* https://colab.research.google.com/drive/1Rc1Y-mEwsPQnO4lDGLC1ovdR9DvUs-3K?usp=sharing&fbclid=IwAR1TyV9HaXhBBfHHBkv9efZYLf2X35vV5IqQtWnNMUQ7NwB6TRawSsjVwek
 
 
 

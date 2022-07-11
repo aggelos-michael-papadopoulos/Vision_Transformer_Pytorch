@@ -25,4 +25,4 @@ Paper link: https://arxiv.org/abs/2010.11929
 On the "fine_tune.py" we fine tune a pre-trained vision transformer on CIFAR-10 dataset (60,000 32x32 colour images in 10 classes, with 6000 images per class) achienving SOTA results. The vision transformer itself is pre-trained on ImageNet-21k, a dataset of 14 million labeled images.  
 
 # Walkthrough of Vision Transformer 
-Its a colab notebook file with all the data-flow of vision transformer.
+Its a colab notebook file with all the data-flow of vision transformer (Vision_Transformer_Tutorial.ipynb).
